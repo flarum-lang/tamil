@@ -105,8 +105,6 @@ If you see something that has been translated poorly, make a new suggestion!
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/ta/) |
 | [`kyrne/evergreen`](https://github.com/KyrneDev/Evergreen) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/kyrne-evergreen/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kyrne-evergreen/ta/) |
 | [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/migratetoflarum-fake-data/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/migratetoflarum-fake-data/ta/) |
-| [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/the-turk-diff/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-diff/ta/) |
-| [`the-turk/flarum-miserable-users`](https://github.com/the-turk/flarum-miserable-users) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/the-turk-miserable-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-miserable-users/ta/) |
 | [`tituspijean/flarum-ext-auth-ldap`](https://github.com/tituspijean/flarum-ext-auth-ldap) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/tituspijean-auth-ldap/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/tituspijean-auth-ldap/ta/) |
 
 <!-- various-extensions-list-stop -->
