@@ -3,13 +3,13 @@
 
 # Tamil language pack for [Flarum](https://flarum.org/)
 
-The package contains translations for Flarum (compatible with version 1.0.0 or newer)
+The package contains translations for Flarum (compatible with version 2.0.0 or newer)
 
 ## Installation
 
 We install the extension using [Composer](https://getcomposer.org/):
 
-> `composer require flarum-lang/tamil:dev-main`
+> `composer require "flarum-lang/tamil:@dev"`
 
 Then turn on the extension in the admin panel.
 
@@ -21,7 +21,7 @@ We install updates using [Composer](https://getcomposer.org/):
 
 Or force update to the latest version (recommended when upgrading to a new version of Flarum):
 
-> `composer require flarum-lang/tamil:dev-main`
+> `composer require "flarum-lang/tamil:@dev"`
 
 After updating, we clean the cache:.
 
