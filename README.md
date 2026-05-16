@@ -1,4 +1,4 @@
-> This language pack is maintained by **the community**. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/ta/flarum/)!
+> This language pack is maintained by **the community**. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/ta/flarum2/)!
 
 
 # Tamil language pack for [Flarum](https://flarum.org/)
@@ -45,8 +45,8 @@ If you wish to contribute translations, do not submit pull requests. Instead, pl
 Strings may contain words on a technical level. Do not suggest a translation if you do not understand at least the rough meaning of such a word.
 
 - [Register an account](https://weblate.rob006.net/accounts/register/)
-- Go to the [project page](https://weblate.rob006.net/languages/ta/flarum/)<br />
-(https://weblate.rob006.net/languages/ta/flarum/)
+- Go to the [project page](https://weblate.rob006.net/languages/ta/flarum2/)<br />
+(https://weblate.rob006.net/languages/ta/flarum2/)
 
 If you see something that has been translated poorly, make a new suggestion!
 
