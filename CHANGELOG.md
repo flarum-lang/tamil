@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.2 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (6% complete)
+
+
+All changes: [v2.0.1...2.0.2](https://github.com/flarum-lang/tamil/compare/v2.0.1...2.0.2).
+
+
 2.0.1 (2026-06-16)
 ------------------
 
